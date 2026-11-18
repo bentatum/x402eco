@@ -1,0 +1,7 @@
+{
+  "name": "Catalyst Events",
+  "description": "SEC catalyst events per ticker and a ranked daily list, each cited. Not investment advice.",
+  "url": "https://agents.sevenfourone.studio/#api",
+  "category": "services-endpoints",
+  "logo": "/logos/sevenfourone-catalyst-events.png"
+}
