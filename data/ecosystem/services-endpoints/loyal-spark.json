@@ -1,0 +1,8 @@
+{
+  "name": "Loyal Spark",
+  "description": "Onchain loyalty API on Base for AI agents: programs, points, rewards and vouchers via x402",
+  "url": "https://loyalspark.online/for-agents",
+  "category": "services-endpoints",
+  "logo": "/logos/loyal-spark.png",
+  "install_command": "npx skills add aspekt19/loyal-spark"
+}
