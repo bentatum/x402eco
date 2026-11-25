@@ -1,0 +1,8 @@
+{
+  "name": "paydlux check",
+  "description": "Metered preflight for 402 endpoints: POST the URL before your agent pays and the endpoint's own payment terms are fully parsed — payee, asset, issuer, network, amount — or flagged unreadable rather than silently accepted. PAYABLE / NOT_PAYABLE / REFUSED verdict with an on-chain receipt, settled on Stellar mainnet (0.08 XLM). Open source, MIT.",
+  "url": "https://check.paydlux.com",
+  "category": "services-endpoints",
+  "logo": null,
+  "install_command": "npm i @paydlux/agent"
+}
