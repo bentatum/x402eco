@@ -1,0 +1,7 @@
+{
+  "name": "QuantSet",
+  "description": "Financial statements for 36,000+ companies, 127M+ SEC EDGAR XBRL facts, 4,899 ETF look-throughs, consensus estimates, 40-factor stock screening, and prices across 67 countries.",
+  "url": "https://quantset.dev",
+  "category": "services-endpoints",
+  "logo": "/logos/quantset.png"
+}
